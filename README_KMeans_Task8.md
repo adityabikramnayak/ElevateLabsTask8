@@ -31,10 +31,6 @@ Apply K-Means Clustering to segment mall customers based on their **Annual Incom
 - Scikit-learn
 - Matplotlib
 
-## 📍 Folder Location
-All files are saved in:  
-`C://Users//KIIT//OneDrive//Desktop//ELAB//Task-8`
-
 ## 📘 What I Learned
 - Basics of **unsupervised learning**
 - How **K-Means** works
